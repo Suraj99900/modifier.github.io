@@ -87,7 +87,7 @@ function GenrateObstacle() {
             clearInterval(move_id);
             alert("GameOver:" + "Your score is :" + value);
             let session_data = session_value();
-            location.href = "http://127.0.0.1:5500/index.html";
+            location.href = "https://suraj99900.github.io/modifier.github.io/index.html";
         }
 
         if (obstacle.style.right == 1500 + "px") {
