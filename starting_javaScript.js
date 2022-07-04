@@ -31,7 +31,7 @@ function check_click1() {
 
     // game start function
     function start() {
-        window.location.href = 'http://127.0.0.1:5500/start_game.html?' + mario;
+        window.location.href = 'https://suraj99900.github.io/modifier.github.io/start_game.html?' + mario;
     }
 
     setTimeout(() => {
@@ -51,7 +51,7 @@ function check_click2() {
 
     // game start function
     function start() {
-        window.location.href = 'http://127.0.0.1:5500/start_game.html?' + military;
+        window.location.href = 'https://suraj99900.github.io/modifier.github.io/start_game.html?' + military;
     }
 
     setTimeout(() => {
@@ -71,7 +71,7 @@ function check_click3() {
 
     // game start function
     function start() {
-        window.location.href = 'http://127.0.0.1:5500/start_game.html?' + dora;
+        window.location.href = 'https://suraj99900.github.io/modifier.github.io/start_game.html?' + dora;
     }
 
     setTimeout(() => {
